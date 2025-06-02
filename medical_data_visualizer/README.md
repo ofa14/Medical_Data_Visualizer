@@ -107,10 +107,10 @@ Analyze medical examination data to identify patterns and correlations in cardio
 * **medical_data_visualizer.py** - Main analysis script with visualization functions
 * **catplot.png** - Categorical plot showing risk factor distributions
 * **heatmap.png** - Correlation heatmap of medical measurements
-
-
 ---
 
 
 ## 8. Impact
+
+Delivered comprehensive cardiovascular risk analysis that identified key modifiable risk factors and their statistical relationships with heart disease. The visualizations provide healthcare professionals with data-driven insights for patient risk assessment and enable targeted prevention strategies that can improve patient outcomes and reduce healthcare costs.
 
